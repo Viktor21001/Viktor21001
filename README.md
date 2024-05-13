@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/view/hacker-matrix-codes-computer-language-hacker-man-gif-16590684" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGE5ZndiNjYxbDQ2ZW5pcHJkeDBhdGdxNHpmdzZzM2Vzd3Q0dmltNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="400"/>
 </div>
 
 <div id="badges" align="center">
@@ -15,7 +15,7 @@
 </div>
 
 <div align="center"> 
-<img src="https://komarev.com/ghpvc/?username=mariazobnina&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Viktor21001&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1>
