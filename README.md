@@ -26,7 +26,7 @@ My name is Viktor, I am a Fullstack developer.
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m working as a Frontend Developer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Fullstack Developer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
