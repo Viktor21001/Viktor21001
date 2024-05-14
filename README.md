@@ -22,7 +22,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-My name is Viktor, I am a Frontend developer.
+My name is Viktor, I am a Fullstack developer.
 
 ### :man_technologist: About Me :
 
